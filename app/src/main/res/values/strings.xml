@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VoiceTubeHomeWork</string>
+    <string name="title_project1">Project1</string>
+    <string name="title_project2">Project2</string>
+    <string name="title_project3">Project3</string>
+    <string name="loading">正在讀取中...</string>
+    <string name="load_end">沒有更多了</string>
+    <string name="hint_input_count_down">請輸入倒數秒數</string>
+    <string name="text_count_down">倒數</string>
+    <string name="action_start">開始</string>
+    <string name="notification_input_number">請輸入數字</string>
+</resources>
